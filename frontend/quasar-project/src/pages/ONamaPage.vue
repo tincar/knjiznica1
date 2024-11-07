@@ -1,6 +1,7 @@
 <template>
   <q-page padding>
-    <!-- content -->
+   <h5>O Nama</h5>
+   <p>Nešto o nama :)</p>
   </q-page>
 </template>
 

@@ -1,6 +1,7 @@
 <template>
   <q-page padding>
-    <!-- content -->
+   <h5>Lokacija</h5>
+   <p>Ovdje se nalazi lokacija knjižnice.</p>
   </q-page>
 </template>
 
