@@ -12,9 +12,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 const connection = mysql.createConnection({
   host: "ucka.veleri.hr",
-  user: "dbanovac",
+  user: "tcar3",
   password: "11",
-  database: "dbanovac"
+  database: "tcar3"
 });
 
 connection.connect(function (err) {
